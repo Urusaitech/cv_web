@@ -1,0 +1,1 @@
+setTimeout((function(){document.getElementById("python").className+=" show",document.getElementById("photoshop").className+=" show"}),1e3);
